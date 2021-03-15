@@ -28,3 +28,4 @@ foreach($array as $chave => $valor) {
     if($chave % 2 !== 0) continue;
     echo "$valor ";
 }
+?>

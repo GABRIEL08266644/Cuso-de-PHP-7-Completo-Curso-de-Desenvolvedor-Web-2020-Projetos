@@ -38,3 +38,4 @@ foreach ($numeros as &$dobrar) {
     echo "$dobrar <br>";
 }
 print_r($numeros);
+?>

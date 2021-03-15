@@ -21,3 +21,4 @@ while(true) {
     $contador++;
     if($contador >= VALOR_LIMITE) break;
 }
+?>

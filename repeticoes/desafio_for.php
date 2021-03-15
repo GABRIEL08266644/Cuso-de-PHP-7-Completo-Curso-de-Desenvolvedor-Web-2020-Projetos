@@ -26,3 +26,4 @@ for(
 ) {
     echo "$impressao2 <br>";
 }
+?>
