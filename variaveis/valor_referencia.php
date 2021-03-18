@@ -16,3 +16,4 @@ $variavelReferencia = &$variavel;
 $variavelReferencia = 'mesma referencia';
 
 echo "<br>$variavel $variavelReferencia";
+?>

@@ -44,3 +44,4 @@ echo '<br>';
 var_dump((int) "10.5");
 echo '<br>';
 var_dump((float) "10.5");
+?>

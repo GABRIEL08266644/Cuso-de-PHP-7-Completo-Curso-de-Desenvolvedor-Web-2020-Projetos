@@ -22,3 +22,4 @@ class Usuario extends Pessoa {
         parent::apresentar();
     }
 }
+?>

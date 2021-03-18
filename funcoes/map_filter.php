@@ -40,3 +40,4 @@ function calculoLegal($nota) {
 echo '<br>';
 $notasFinais3 = array_map(calculoLegal, $notas);
 print_r($notasFinais3);
+?>

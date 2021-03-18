@@ -17,3 +17,4 @@ carregarArquivo();
 echo "Variável = '{$variavel}'.";
 // var_dump($variavel);
 echo '<br>' . soma(3, 8);
+?>

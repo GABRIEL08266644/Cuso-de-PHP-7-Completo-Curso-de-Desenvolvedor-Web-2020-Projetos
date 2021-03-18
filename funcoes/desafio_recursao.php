@@ -29,3 +29,4 @@ function imprimirArray($array, $nivel = '>') {
 
 imprimirArray($array);
 imprimirArray($array, '#');
+?>

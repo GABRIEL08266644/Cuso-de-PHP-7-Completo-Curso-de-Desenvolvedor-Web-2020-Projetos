@@ -20,3 +20,4 @@ echo "Variável = '{$variavel}'.<br>";
 
 require_once('include_once_arquivo.php');
 echo "Variável = '{$variavel}'. <br>";
+?>

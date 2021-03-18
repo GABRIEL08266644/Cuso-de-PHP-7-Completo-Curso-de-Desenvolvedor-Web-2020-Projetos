@@ -13,3 +13,4 @@ echo soma(13)(3);
 $doisMais = soma(2);
 echo '<br>', $doisMais(10);
 echo '<br>', $doisMais(18);
+?>

@@ -32,3 +32,4 @@ trocaValorDeVerdade();
 echo "Depois: $variavel <br>";
 
 var_dump(trocaValorDeVerdade());
+?>

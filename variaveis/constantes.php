@@ -21,3 +21,4 @@ echo '<br>' . PHP_INT_MAX;
 echo '<br> Linha: ' . __LINE__;
 echo '<br>' . __FILE__;
 echo '<br>' . __DIR__;
+?>

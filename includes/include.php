@@ -7,3 +7,4 @@ include('include_arquivo.php');
 
 echo soma(3, 8) . '!<br>';
 echo "O conteúdo da variável é '{$variavel}'.";
+?>

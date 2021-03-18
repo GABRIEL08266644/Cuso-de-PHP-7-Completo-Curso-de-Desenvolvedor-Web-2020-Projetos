@@ -25,3 +25,4 @@ echo palindromoSimples('arara') . ' ';
 echo palindromoSimples('ana') . ' ';
 echo palindromoSimples('abccba') . ' ';
 echo palindromoSimples('bola') . ' ';
+?>

@@ -27,3 +27,4 @@ function somar3($a, float $b): int {
 echo somar3(1, 2) . '<br>';
 echo somar3(1.7, 2.5) . '<br>';
 echo somar3(1, '4dois') . '<br>';
+?>

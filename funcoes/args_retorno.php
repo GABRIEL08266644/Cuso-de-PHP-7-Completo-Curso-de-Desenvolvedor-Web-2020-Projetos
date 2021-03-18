@@ -42,3 +42,4 @@ function trocarValorDeVerdade(&$a, $novoValor) {
 
 trocarValorDeVerdade($variavel, 5000);
 echo '<br>', $variavel;
+?>

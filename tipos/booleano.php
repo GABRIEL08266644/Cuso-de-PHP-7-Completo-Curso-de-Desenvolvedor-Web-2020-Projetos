@@ -25,3 +25,4 @@ echo '<br>' . var_dump((bool) "00");
 echo '<br>' . var_dump((bool) "false");
 
 echo '<br>' . var_dump(!!"false");
+?>

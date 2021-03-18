@@ -27,3 +27,4 @@ function somaRecursivaEconomica($numero) {
 }
 
 echo somaRecursivaEconomica(150) . '<br>';
+?>

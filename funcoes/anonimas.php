@@ -25,3 +25,4 @@ function divisao($a, $b) {
 }
 
 executar(9, 3, '/', $divisao);
+?>

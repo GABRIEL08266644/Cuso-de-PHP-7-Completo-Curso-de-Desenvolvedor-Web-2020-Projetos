@@ -56,3 +56,4 @@ echo $pessoa->nome;
 $pessoa->exec(1, 'teste', true, [1, 2, 3]);
 
 $pessoa = null; // __destruct
+?>

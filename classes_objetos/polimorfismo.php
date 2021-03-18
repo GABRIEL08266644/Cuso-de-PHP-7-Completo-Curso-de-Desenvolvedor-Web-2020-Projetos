@@ -49,3 +49,4 @@ $p->comer($c2);
 $p->comer($c3);
 
 echo $p->peso;
+?>

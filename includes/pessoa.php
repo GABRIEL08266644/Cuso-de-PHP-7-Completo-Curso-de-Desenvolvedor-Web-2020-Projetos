@@ -17,3 +17,4 @@ class Pessoa {
         echo "{$this->nome}, {$this->idade} anos<br>";
     }
 }
+?>

@@ -14,3 +14,4 @@ echo "Nossa! Eu consegui responder esse desafio.";
 // $a
 echo "<br>";
 echo "$a! {$$a} {$$$a} {$$$$a} {$$$$$a} {$$$$$$a}.";
+?>

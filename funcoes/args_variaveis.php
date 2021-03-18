@@ -35,3 +35,4 @@ membros("Ana Silva", "Pedro", "Rafaela", "Amanda");
 
 echo '<br>';
 membros("Roberto", "Junior");
+?>

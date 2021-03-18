@@ -25,3 +25,4 @@ function anotarPedido2($bebida = 'Água', $comida) {
 
 // anotarPedido2('Hamburguer');
 anotarPedido2('Refrigerante2', 'Pizza2');
+?>
