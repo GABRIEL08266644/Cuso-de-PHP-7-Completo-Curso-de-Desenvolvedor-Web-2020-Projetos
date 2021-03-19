@@ -1,10 +1,15 @@
 <nav class="modulos">
-    <div class="modulo roxo">
-        <h3>14. Formulário</h3>
+    <div class="modulo vermelho">
+        <h3>12. Sessão</h3>
         <ul>
             <li>
-                <a href="exercicio.php?dir=fomulario&file=formulario">
-                    Formulário
+                <a href="exercicio.php?dir=sessao&file=basico_sessao">
+                    Sessão
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=sessao&file=gerenciando_sessao">
+                    Gerenciando Sessão
                 </a>
             </li>
         </ul>
@@ -89,7 +94,6 @@
             </li>
         </ul>
     </div>
-
     <div class="modulo azul-escuro">
         <h3>8. Paradigma O.O.</h3>
         <ul>
